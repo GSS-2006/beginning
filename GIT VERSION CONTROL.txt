@@ -29,6 +29,8 @@ Remote Repository Updates: Once changes are pushed, the remote repository has th
 No Automatic Updates: Local repositories of other clients do not automatically update with changes made by one client. They must explicitly pull the updates from the remote repository.
 So, a single client’s changes do not affect the main plot of other clients automatically. Each client’s local version of the project remains the same until they choose to synchronize with the remote repository.
 
+changes are done
+
 
 
 
